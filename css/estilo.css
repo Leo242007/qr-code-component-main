@@ -14,7 +14,7 @@ main{
 
 div.container {
     width: 330px;
-    height:476px;
+    min-height:497px;
     border-radius: 20px;
     padding: 16px;
     background-color: hsl(0, 0%, 100%);
