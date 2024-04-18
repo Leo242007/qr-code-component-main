@@ -7,7 +7,11 @@ body{
     font-family:'Outfit';
 }
 
-main.container {
+main{
+    height:100vh;
+}
+
+div.container {
     display: flex;
     flex-direction: column;
     max-width: 330px;
