@@ -27,12 +27,9 @@ div.container {
 .container_foto{
     margin-bottom:24px;
 }
-  .texto{
-    padding: 0 16px;
-    margin-bottom:32px;
-  }
 
-.texto h1{
+
+ h1{
     width:100%;
     text-align:center;
     font-weight: 700;
@@ -40,9 +37,9 @@ div.container {
     color: hsl(218, 44%, 22%);
 }
 
-.texto p{
+ p{
     text-align:center;
-    margin-top: 16px;
+    margin-top:0 16px 0 32px;
     color: hsl(220, 15%, 55%);
     font-size: 15px;
     
