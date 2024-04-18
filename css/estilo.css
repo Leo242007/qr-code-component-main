@@ -40,7 +40,7 @@ div.container {
     color: hsl(218, 44%, 22%);
 }
 
-;texto p{
+.texto p{
     text-align:center;
     margin-top: 16px;
     color: hsl(220, 15%, 55%);
