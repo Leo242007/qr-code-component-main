@@ -8,8 +8,8 @@ body{
 }
 
 main {
-    width: 320px;
-    height: 497px;
+    width-min: 320px;
+    height-min:497px;
     border-radius: 15px;
     padding: 15px;
     background-color: hsl(0, 0%, 100%);
