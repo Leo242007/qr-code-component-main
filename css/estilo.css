@@ -14,7 +14,8 @@ main{
 div.container {
     display: flex;
     flex-direction: column;
-    max-width: 330px;
+    width: 330px;
+    height:476px;
     border-radius: 20px;
     padding: 16px;
     background-color: hsl(0, 0%, 100%);
