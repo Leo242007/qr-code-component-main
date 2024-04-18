@@ -29,6 +29,7 @@ div.container {
 }
   .texto{
     padding: 0 16px;
+      margin-bottom:32px;
   }
 
 .texto h1{
@@ -42,7 +43,6 @@ div.container {
 .texto p{
     text-align:center;
     margin-top: 16px;
-    margin-bottom:32px;
     color: hsl(220, 15%, 55%);
     font-size: 15px;
     
