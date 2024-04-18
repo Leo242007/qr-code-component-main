@@ -39,7 +39,7 @@ div.container {
 
  p{
     text-align:center;
-    margin:0 16px 0 32px;
+    margin: 16px 0 32px 0;
     color: hsl(220, 15%, 55%);
     font-size: 15px;
     
