@@ -21,6 +21,8 @@ main.container {
     width: 100%;
     border-radius: 10px;
 }
+.container_foto{
+    margin-bottom:24px;
 
 h1{
     width:100%;
@@ -33,7 +35,7 @@ h1{
 p{
     margin-top: 0px;
     text-align:center;
-    margin-bottom: 30px;
+    margin-top: 16px;
     color: hsl(220, 15%, 55%);
     font-size: 15px;
     width: 90%;
