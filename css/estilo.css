@@ -33,6 +33,7 @@ div.container {
     width:100%;
     padding-left:16px;
     padding-right:16px;
+    margin-bottom:16px;
     text-align:center;
     font-weight: 700;
     font-size: 22px;
@@ -41,7 +42,7 @@ div.container {
 
  p{
     text-align:center;
-    margin: 16px 16px 32px 16px;
+    padding: 0px 16px 32px 16px;
     color: hsl(220, 15%, 55%);
     font-size: 15px;
     
