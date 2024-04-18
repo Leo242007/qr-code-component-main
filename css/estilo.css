@@ -4,10 +4,16 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family:'Outfit';
+    font-family:'Outfit', sans-serif;
 }
 
 main{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
     height:100vh;
 }
 
