@@ -2,7 +2,7 @@
 
 }
 
-@media(max-width:320px){
+@media(min-width:320px) and (max-width:375px){
 
 div.container {
     width: 268px;
@@ -18,7 +18,7 @@ div.container {
  h1{
     margin-bottom:12px;
     font-size: 1.15rem;
-     color:red;
+    
 }
 
  p{
