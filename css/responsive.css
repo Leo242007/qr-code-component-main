@@ -2,6 +2,27 @@
 
 }
 
-@media(max-width:375px){
+@media(max-width:320px){
 
+div.container {
+    width: 268px;
+    min-height:397px;
+    border-radius: 20px;
+    padding: 13px;
+}
+.container_foto{
+    margin-bottom:17px;
+}
+
+
+ h1{
+    margin-bottom:12px;
+    font-size: 1.15rem;
+}
+
+ p{
+    
+    font-size:0.800rem;
+    
+}
 }
